@@ -1,4 +1,4 @@
-# Staudy_Docker My Docker Lab
+# Study_Docker My Docker Lab
 [Docker Learning Journey]
 This repository is for learning Docker and experimenting with containerization.
 
